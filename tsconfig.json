@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+    "lib": [ "ES2019" ],
+    "module": "ES6",
+    "moduleResolution": "node",
+    "noImplicitAny": false,
+    "sourceMap": true,
+    "strict": true,
+    "target": "es6",
+    "types": [ "node", "jest" ]
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
