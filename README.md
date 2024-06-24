@@ -43,7 +43,7 @@ These test cases have already been written for you on [lines 394-496](test/cones
 
 Of course, refactoring [`cones-of-dunshire.ts`](src/cones-of-dunshire.ts) is suggested. We are fans of both object oriented and functional styles of programming, take your pick!
 
-Once completed, please create a **private** GitHub repo and invite [brandonwestcott](https://github.com/brandonwestcott) as a contributor.
+Once completed, please submit your results via hatchways.io.
 
 ## Getting started
 Install dependencies
