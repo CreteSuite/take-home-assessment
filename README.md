@@ -29,7 +29,7 @@ The Alchemist is very bespoke:
 3) the Alchemist has an additional property, vilesAvailable, which is equal to 1/2 their end of turn strength (rounded up).
 
 ## Instructions
-Since we all have many other priorities in life, please timebox this assignment to no more than a few hours.
+Since we all have many other priorities in life, please timebox this assignment to no more than a couple of hours.
 
 Your objective is to add a new character, the "Farmer".
 
@@ -39,7 +39,7 @@ The Farmer of course has special behaviors:
 3) loses an additional strength if health is at or below 5
 4) when health reaches 0, strength gets set to 20. Why? Because "it's about the cones"
 
-These test cases have already been written for you on [lines 394-496](test/cones-of-dunshire.test.ts#L394-L496). Please remove the `skip` on [lines 394](test/cones-of-dunshire.test.ts#L394) and make them green!
+These test cases have already been written for you on [lines 394-496](test/cones-of-dunshire.test.ts#L394-L496). Please remove the `skip` on [line 394](test/cones-of-dunshire.test.ts#L394) and make them green!
 
 Of course, refactoring [`cones-of-dunshire.ts`](src/cones-of-dunshire.ts) is suggested. We are fans of both object oriented and functional styles of programming, take your pick!
 
