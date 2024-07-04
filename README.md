@@ -41,7 +41,7 @@ The Farmer of course has special behaviors:
 
 These test cases have already been written for you on [lines 394-496](test/cones-of-dunshire.test.ts#L394-L496). Please remove the `skip` on [line 394](test/cones-of-dunshire.test.ts#L394) and make them green!
 
-Of course, refactoring [`cones-of-dunshire.ts`](src/cones-of-dunshire.ts) is suggested. We are fans of both object oriented and functional styles of programming, take your pick!
+Of course, refactoring `cones-of-dunshire.ts` is suggested. We are fans of both modern object oriented and functional programming (ex fp-ts / effect-ts - think clojure, erlang, scala, haskell), take your pick!
 
 Once completed, please submit your results via hatchways.io.
 
